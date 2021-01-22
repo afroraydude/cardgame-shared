@@ -4,10 +4,10 @@ namespace CardGameShared.Data
 {
     public enum ActionType
     {
-        NullAction = -1,
-        HeavySwordH = 0,
-        HeavySwordS = 3,
-        Shield = 1,
-        Sword = 2,
+        NullAction = 0,
+        HeavySwordH = 1,
+        HeavySwordS = 2,
+        Shield = 3,
+        Sword = 4,
     }
 }
