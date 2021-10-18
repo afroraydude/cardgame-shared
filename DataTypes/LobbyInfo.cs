@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace CardGameShared.Data
+﻿namespace JetpackGameStudios.Web.ScratchBattleApi.DataTypes
 {
     public struct LobbyInfo
     {

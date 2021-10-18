@@ -1,4 +1,4 @@
-﻿namespace CardGameShared.Exception
+﻿namespace JetpackGameStudios.Web.ScratchBattleApi.Exception
 {
     public class CardGameException : System.Exception
     {
